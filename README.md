@@ -1,5 +1,5 @@
 ## Hey there! I'm Fernanda Abad!
-
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <div align="center">
   <a href="https://github.com/feabad">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=feabad&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -14,7 +14,7 @@
   <a href="https://www.linkedin.com/in/fernanda-sanchez-abad/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
 
-  <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+  
   <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="fernanda-sanchez-abad" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/fernanda-sanchez-abad?trk=profile-badge">Fernanda Sanchez Abad</a></div>
               
   
